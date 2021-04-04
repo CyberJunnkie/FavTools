@@ -1,0 +1,22 @@
+1-Linux privesc suggestor
+2-Windows privesc suggestor
+3-Linpeas
+4- Winpeas
+5-cherrytree
+6-Flameshot
+7-ssh2john
+8-zip2john
+9-stegcracker
+10-steghide
+11-gobuster
+12-Seclists
+13-rustscan   
+14-ffuf fuzzer
+15-nessus
+16-kalitorify
+17-pspy
+18-remnina
+19- recon-ng
+20-eye witness(bugbounty)
+21-knockpy
+22-autorecon
